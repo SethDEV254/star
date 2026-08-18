@@ -1,5 +1,5 @@
 # star-junior
-dollarpath
+dollarpath djs
 gemuini
 sunny-ray
 cityboys
