@@ -1,1 +1,1 @@
-# star
+# star-junior
